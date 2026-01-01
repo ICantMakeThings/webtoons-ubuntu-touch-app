@@ -155,3 +155,4 @@ MainView {
 })();
 "
 }
+// might be of use? https://github.com/MrGautier256/webtoons-full-loader/blob/main/scripts/contentScript.js
