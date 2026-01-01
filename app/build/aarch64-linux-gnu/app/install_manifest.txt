@@ -1,0 +1,11 @@
+/./manifest.json
+//webtoons.apparmor
+//assets/splash.svg
+//assets/hamburger.svg
+//assets/logo.png
+//assets/webtoon-logo.svg
+//qml/UCSComponents/RadialBottomEdge.qml
+//qml/UCSComponents/EmptyState.qml
+//qml/UCSComponents/RadialAction.qml
+//qml/Main.qml
+//webtoons.desktop

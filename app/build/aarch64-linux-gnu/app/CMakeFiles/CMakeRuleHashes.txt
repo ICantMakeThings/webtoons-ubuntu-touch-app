@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+1239f2672d7fd78d55c1b9e0d9c6cc7c CMakeFiles/webtoons.desktop
+71485c5c86408fc8c06733d5efda0a34 po/CMakeFiles/webtoons.icmt.pot

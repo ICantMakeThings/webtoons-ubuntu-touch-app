@@ -1,0 +1,15 @@
+{
+    "name": "webtoons.icmt",
+    "description": "webtoon unofficial app",
+    "architecture": "arm64",
+    "title": "WEBTOONS",
+    "hooks": {
+        "webtoons": {
+            "apparmor": "webtoons.apparmor",
+            "desktop":  "webtoons.desktop"
+        }
+    },
+    "version": "1.0.0",
+    "maintainer": "icantmakethings <contact@icmt.cc>",
+    "framework" : "ubuntu-sdk-20.04.1"
+}

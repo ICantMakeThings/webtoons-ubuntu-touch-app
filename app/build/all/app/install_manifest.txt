@@ -1,0 +1,10 @@
+/./manifest.json
+//webtoons.apparmor
+//assets/splash.svg
+//assets/hamburger.svg
+//assets/logo.png
+//assets/webtoon-logo.svg
+//qml/.Main
+//qml/Main.qml
+//qml/.workingnoscrolllock
+//webtoons.desktop

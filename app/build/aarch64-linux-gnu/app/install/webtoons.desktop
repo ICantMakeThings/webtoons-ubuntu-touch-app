@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=WEBTOONS
+Exec=qmlscene %U qml/Main.qml --scaling
+Icon=assets/logo.png
+Terminal=false
+Type=Application
+X-Lomiri-Touch=true
+Keywords=webtoon;comic;webapp;toon;
+X-Ubuntu-Touch=true
+X-Ubuntu-Splash-Show-Header=false
+X-Ubuntu-Splash-Color=#ffffff
+X-Ubuntu-Splash-Image=app/assets/splash.svg

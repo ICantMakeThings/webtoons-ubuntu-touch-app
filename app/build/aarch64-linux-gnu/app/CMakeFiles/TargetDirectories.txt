@@ -1,0 +1,15 @@
+/home/user/webtoons/trunk/app/build/aarch64-linux-gnu/app/CMakeFiles/webtoons.desktop.dir
+/home/user/webtoons/trunk/app/build/aarch64-linux-gnu/app/CMakeFiles/webtoons_FILES.dir
+/home/user/webtoons/trunk/app/build/aarch64-linux-gnu/app/CMakeFiles/edit_cache.dir
+/home/user/webtoons/trunk/app/build/aarch64-linux-gnu/app/CMakeFiles/rebuild_cache.dir
+/home/user/webtoons/trunk/app/build/aarch64-linux-gnu/app/CMakeFiles/list_install_components.dir
+/home/user/webtoons/trunk/app/build/aarch64-linux-gnu/app/CMakeFiles/install.dir
+/home/user/webtoons/trunk/app/build/aarch64-linux-gnu/app/CMakeFiles/install/local.dir
+/home/user/webtoons/trunk/app/build/aarch64-linux-gnu/app/CMakeFiles/install/strip.dir
+/home/user/webtoons/trunk/app/build/aarch64-linux-gnu/app/po/CMakeFiles/webtoons.icmt.pot.dir
+/home/user/webtoons/trunk/app/build/aarch64-linux-gnu/app/po/CMakeFiles/edit_cache.dir
+/home/user/webtoons/trunk/app/build/aarch64-linux-gnu/app/po/CMakeFiles/rebuild_cache.dir
+/home/user/webtoons/trunk/app/build/aarch64-linux-gnu/app/po/CMakeFiles/list_install_components.dir
+/home/user/webtoons/trunk/app/build/aarch64-linux-gnu/app/po/CMakeFiles/install.dir
+/home/user/webtoons/trunk/app/build/aarch64-linux-gnu/app/po/CMakeFiles/install/local.dir
+/home/user/webtoons/trunk/app/build/aarch64-linux-gnu/app/po/CMakeFiles/install/strip.dir
