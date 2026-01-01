@@ -1,4 +1,4 @@
-### WEBTOONS app for UT!
+### ᵘⁿᵒᶠᶠᶦᶜᶦᵃˡ WEBTOONS app for UT!
 
 Based on [webtoons](https://github.com/stekalb/webtoons) by [stekalb](https://github.com/stekalb) 
 
